@@ -73,7 +73,7 @@
 
 * [Android Architecture](https://developer.android.com/topic/libraries/architecture/)
     - [跟着Google学习架构1：todo‑mvp和todo‑mvp‑clean](https://meandni.com/2018/11/10/33d5/)
-    - [[跟着Google学习架构2：todo‑mvp代码分析](https://meandni.com/2018/11/11/3b09/)](https://meandni.com/page/2/)
+    - [跟着Google学习架构2：todo‑mvp代码分析](https://meandni.com/2018/11/11/3b09/)
     - [Android 框架组件(Android Architecture Components)使用指南](https://meandni.com/2018/11/21/86ef/)
 * [Android Jetpack](https://developer.android.com/jetpack/)
     - [Data Binding](https://developer.android.com/topic/libraries/data-binding/)
